@@ -1,3 +1,8 @@
 title: kornel-dev
 description: tutaj piszę różne rzeczy
 remote_theme: pages-themes/cayman@v0.2.0
+github:
+  is_project_page: true
+  repository_url: / 
+  zip_url: /blog/
+  tar_url: /about/
