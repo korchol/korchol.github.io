@@ -1,0 +1,26 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: #f5f5f5;
+    color: #333;
+  }
+  
+  .page-header {
+    background: #157878;
+    color: white;
+    padding: 1em;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 0.5em 1em;
+    background: #157878;
+    color: white;
+    text-decoration: none;
+    border-radius: 0.25em;
+    margin-right: 0.5em;
+  }
+  
+  .btn:hover {
+    background: #105c5c;
+  }
+  
